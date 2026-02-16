@@ -1,6 +1,8 @@
 # google-antigravity-appimage
 An AppImage package to be installed on linux atomic system like Bazzite, Aurora and Bluefin 
 
+[Download on release page](https://github.com/piccininsouza/google-antigravity-appimage/releases/tag/v1.0.0)
+
 Google Chrome Integration:
 1. Install Chrome using flatpack (or bazaar)
    `flatpak install flathub com.google.Chrome`
